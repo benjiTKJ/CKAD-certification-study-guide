@@ -18,6 +18,7 @@ spec:
       volumeMounts:
         - name: data-vol
           mountPath: /data/app
+kubectl create -f q4.yaml
 
 # Question 1.2
 # Files created on the volume should use the filesystem group ID 3000
@@ -25,3 +26,7 @@ spec:
 
 # Question 1.3
 # Shell into the running container and create a new file named logs.txt in the directory /data/app List the contents of the directory and write down
+kubectl exec secured -it -- bin/sh 
+cd data/app
+touch logs.txt
+ls -la 
