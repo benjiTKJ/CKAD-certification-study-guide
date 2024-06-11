@@ -11,3 +11,6 @@ kubectl run testPod --image=nginx:2.3.5 --port=80 --dry-run-client -o yaml > tes
 
 # Create configmap
 kubectl create configmap 
+
+# Find out kubectl yaml requirements 
+kubectl explain pods.spec.containers
