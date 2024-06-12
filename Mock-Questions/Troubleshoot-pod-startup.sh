@@ -39,3 +39,6 @@ kubectl logs failing-pod
 
 # Question 1.4
 # Fix the issue by shelling into the container. After the fix, the current date should be written to a file
+kubectl exec -it failing-pod -- /bin/sh
+mkdir -p ~/tmp
+cd ~/tmp
