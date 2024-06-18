@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Full list of kubernetes yaml config https://kubernetes.io/
+
 # Create a namespace (called example)
 kubectl create namespace example
 
