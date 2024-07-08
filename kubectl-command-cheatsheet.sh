@@ -16,3 +16,14 @@ kubectl create configmap
 
 # Find out kubectl yaml requirements 
 kubectl explain pods.spec.containers
+
+# Create resource from yaml file
+kubectl apply -f myfile.yaml # this is more versatile as it can handle both creating and updating of resource 
+# or
+kubectl create -f myfile.yaml 
+
+# Get cluster info
+kubectl cluster-info
+
+# Get nodes
+kubectl get nodes
