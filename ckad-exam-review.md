@@ -5,8 +5,9 @@ I've finally passed my CKAD exam! :star_struck:
 Hopefully through my experience, it can help others pass it as well!
 
 # Preparation
+
 - Materials that are super useful in helping me prepare:
-* This is NOT sponsored and i have no affilation to any of the below mentioned brands/person
+*This is NOT sponsored and i have no affilation to any of the below mentioned brands/person*
 
 1) kodekloud's [Udemy Labs - Certified Kubernetes Application Developer](https://learn.kodekloud.com/courses/udemy-labs-certified-kubernetes-application-developer)
 - I find myself constantly redoing the 2 lightning labs & 2 mock test daily. It helped me increased my speed as well as get familiar with all the imperative commands
