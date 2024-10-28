@@ -7,6 +7,7 @@ Hopefully through my experience, it can help others pass it as well!
 # Preparation
 
 - Materials that are super useful in helping me prepare:
+
 *This is NOT sponsored and i have no affilation to any of the below mentioned brands/person*
 
 1) kodekloud's [Udemy Labs - Certified Kubernetes Application Developer](https://learn.kodekloud.com/courses/udemy-labs-certified-kubernetes-application-developer)
