@@ -1,4 +1,4 @@
-# Learn-CKAD-With-Me
+# CKAD Certification Study Guide
 Join me as i embark on my journey to take on the [CKAD](https://www.cncf.io/training/certification/ckad/) certificate!
 
 I bought mine from [linux-foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) with 20% discount 
