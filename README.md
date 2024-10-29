@@ -1,5 +1,7 @@
 # CKAD Certification Study Guide
-Join me as i embark on my journey to take on the [CKAD](https://www.cncf.io/training/certification/ckad/) certificate!
+
+> Join me as i embark on my journey to take on the [CKAD](https://www.cncf.io/training/certification/ckad/) certificate!
+> <img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" title="CKAD: Certified Kubernetes Application Developer" alt="CKAD" width="100" height="100" align="right">&nbsp;
 
 I bought mine from [linux-foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) with 20% discount 
 
